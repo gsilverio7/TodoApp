@@ -6,5 +6,5 @@ Primeiro é necessária a instalação de JDK e Gradle (Testado na versões 19 e
 
 # Imagens
 
-![alt text](https://github.com/gsilverio7/TodoAoo/blob/master/pictures/main-todoapp.png)
+![alt text](https://github.com/gsilverio7/TodoAoo/blob/master/imgs/main-todoapp.png)
 
